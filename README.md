@@ -11,7 +11,7 @@
 - 🌎 My #1 travel destination is Tokyo
 
 <p align="center">
-  <img src="https://i.imgur.com/JpRWXlj.gif" alt="pixel art gif" style="width: 400px;">
+  <img src="https://i.imgur.com/JpRWXlj.gif" alt="pixel art gif" style="width: 100%;">
 </p>
 
 ### Languages and Tools:
