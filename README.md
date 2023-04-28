@@ -38,11 +38,11 @@
 ### Other languages:
 
 <div style="display:flex; flex-wrap:wrap;">
-<img align="left" alt="Romania" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Animated-Flag-Romania.gif/150px-Animated-Flag-Romania.gif" style="padding-right:10px;" />
 <img align="left" alt="Japan" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Animated-Flag-Japan.gif/150px-Animated-Flag-Japan.gif" style="padding-right:10px;" />
 <img align="left" alt="German" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Animated-Flag-Germany.gif/150px-Animated-Flag-Germany.gif" style="padding-right:10px;" />
 <img align="left" alt="Poland" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Animated-Flag-Poland.gif/150px-Animated-Flag-Poland.gif" style="padding-right:10px;" />
 <img align="left" alt="Russian" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Animated-Flag-Russia.gif/150px-Animated-Flag-Russia.gif" style="padding-right:10px;" />
+<img align="left" alt="Romania" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Animated-Flag-Romania.gif/150px-Animated-Flag-Romania.gif" style="padding-right:10px;" />
 <img align="left" alt="English" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Animated-Flag-England.gif/150px-Animated-Flag-England.gif" style="padding-right:10px;" />
 </div>
 *My mother tongue is HTML 🌐 
