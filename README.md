@@ -1,29 +1,18 @@
 # 🌏 Hello World 🌍, I'm [Lee](https://ludacris2g.github.io/) ! 👋🗿
 
-
 ## I'm a Developer, Polyglot and World Traveler !!
 
-<p align="center">
-  <img src="https://i.imgur.com/JpRWXlj.gif" alt="pixel art gif" style="width: 300px; float:right;">
-</p>
-<div style='display:flex; flex-direction:column'>
-<p>
 - 🔭 Programming is my passion and I'm always trying to improve my skillset
-</p>
-<p>
 - 🥅 My goal is to use my app development skills to help make the world a better, more connected, and more accessible place for everyone
-</p>
-<p>
 - 👹 I don't always test my code, but when I do, I do it in production
-</p>
-<p>
 - 🌱 I'm currently learning node.js
-</p>
-<p>⚡ Fun fact: I can speak 6 languages</p>
-<p>🎩 Currently listening to electro swing</p>
-<p>🌎 My #1 travel destination is Tokyo</p>
+- ⚡ Fun fact: I can speak 6 languages
+- 🎩 Currently listening to electro swing
+- 🌎 My #1 travel destination is Tokyo
 
-</div>
+<p align="center">
+  <img src="https://i.imgur.com/JpRWXlj.gif" alt="pixel art gif" style="width: 400px;">
+</p>
 
 ### Languages and Tools:
 
@@ -49,11 +38,11 @@
 ### Other languages:
 
 <div style="display:flex; flex-wrap:wrap;">
-<img align="left" alt="Romanian" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Animated-Flag-Romania.gif/150px-Animated-Flag-Romania.gif" style="padding-right:10px;" />
-<img align="left" alt="Romanian" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Animated-Flag-Japan.gif/150px-Animated-Flag-Japan.gif" style="padding-right:10px;" />
-<img align="left" alt="Romanian" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Animated-Flag-Germany.gif/150px-Animated-Flag-Germany.gif" style="padding-right:10px;" />
-<img align="left" alt="Romanian" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Animated-Flag-Poland.gif/150px-Animated-Flag-Poland.gif" style="padding-right:10px;" />
-<img align="left" alt="Romanian" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Animated-Flag-Russia.gif/150px-Animated-Flag-Russia.gif" style="padding-right:10px;" />
-<img align="left" alt="Romanian" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Animated-Flag-England.gif/150px-Animated-Flag-England.gif" style="padding-right:10px;" />
+<img align="left" alt="Romania" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Animated-Flag-Romania.gif/150px-Animated-Flag-Romania.gif" style="padding-right:10px;" />
+<img align="left" alt="Japan" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Animated-Flag-Japan.gif/150px-Animated-Flag-Japan.gif" style="padding-right:10px;" />
+<img align="left" alt="German" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Animated-Flag-Germany.gif/150px-Animated-Flag-Germany.gif" style="padding-right:10px;" />
+<img align="left" alt="Poland" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Animated-Flag-Poland.gif/150px-Animated-Flag-Poland.gif" style="padding-right:10px;" />
+<img align="left" alt="Russian" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Animated-Flag-Russia.gif/150px-Animated-Flag-Russia.gif" style="padding-right:10px;" />
+<img align="left" alt="English" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Animated-Flag-England.gif/150px-Animated-Flag-England.gif" style="padding-right:10px;" />
 </div>
-*My mother tongue is HTML 🌐
+*My mother tongue is HTML 🌐 
