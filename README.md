@@ -3,7 +3,7 @@
 ## I'm a Developer, Polyglot and World Traveler !!
 
 - 🔭 Programming is my passion and I'm always trying to improve my skillset
-- 🥅 My goal is to use my app development skills to help make the world a better, more connected, and more accessible place for everyone
+- 🥅 My goal is to use my app development skills to help make the world a better, more connected, and a more accessible place for everyone
 - 👹 I don't always test my code, but when I do, I do it in production
 - 🌱 I'm currently learning node.js
 - ⚡ Fun fact: I can speak 6 languages
