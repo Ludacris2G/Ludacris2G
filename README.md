@@ -35,7 +35,7 @@
 
 ---
 
-### Other languages:
+### Other Languages:
 
 <div style="display:flex; flex-wrap:wrap;">
 <img align="left" alt="Japan" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Animated-Flag-Japan.gif/150px-Animated-Flag-Japan.gif" style="padding-right:10px;" />
