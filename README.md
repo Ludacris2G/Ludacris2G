@@ -1,14 +1,5 @@
 # 🌏 Hello World 🌍, I'm [Lee](https://ludacris2g.github.io/) ! 👋🗿
 
-<p align="center">
-  <img src="https://i.imgur.com/JpRWXlj.gif" alt="pixel art gif" style="width: 400px;">
-</p>
-
-
-
-
-
-
 ## I'm a Developer, Polyglot and World Traveler !!
 
 - 🔭 Programming is my passion and I'm always trying to improve my skillset
@@ -18,6 +9,10 @@
 - ⚡ Fun fact: I can speak 6 languages
 - 🎩 Currently listening to electro swing
 - 🌎 My #1 travel destination is Tokyo
+
+<p align="center">
+  <img src="https://i.imgur.com/JpRWXlj.gif" alt="pixel art gif" style="width: 400px;">
+</p>
 
 ### Languages and Tools:
 
