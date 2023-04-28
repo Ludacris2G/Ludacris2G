@@ -1,8 +1,9 @@
 # 🌏 Hello World 🌍, I'm [Lee](https://ludacris2g.github.io/) ! 👋🗿
 
-<div style="display: flex; justify-content: center; align-items: center; height: 300px;">
+<p align="center">
   <img src="https://i.imgur.com/JpRWXlj.gif" alt="pixel art gif" style="width: 300px;">
-</div>
+</p>
+
 
 
 
