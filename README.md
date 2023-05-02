@@ -29,6 +29,8 @@
 <img align="left" alt="Firebase" width="35px" src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-3521427-2944871.png?f=webp&w=256" style="padding-right:10px;" />
 <img align="left" alt="Stripe" width="35px" src="https://play-lh.googleusercontent.com/2PS6w7uBztfuMys5fgodNkTwTOE6bLVB2cJYbu5GHlARAK36FzO5bUfMDP9cEJk__cE" style="padding-right:10px;" />
 <img align="left" alt="Styled Components" width="35px" src="https://www.styled-components.com/atom.png" style="padding-right:10px;" />
+<img align="left" alt="Chat GPT" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png" style="padding-right:10px;" />
+
 
 <br />
 <br />
