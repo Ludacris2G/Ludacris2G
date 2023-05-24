@@ -9,6 +9,7 @@
 - 🎩 Electro swing is my favourite music genre
 - 🌎 My #1 travel destination is Tokyo
 - 👹 I don't always test my code, but when I do, I do it in production
+- 🐢 Average LeetCode enjoyer
 
 <p align="center">
   <img src="https://i.imgur.com/JpRWXlj.gif" alt="pixel art gif" style="width: 100%;">
