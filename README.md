@@ -31,6 +31,11 @@
 <img align="left" alt="Stripe" width="35px" src="https://play-lh.googleusercontent.com/2PS6w7uBztfuMys5fgodNkTwTOE6bLVB2cJYbu5GHlARAK36FzO5bUfMDP9cEJk__cE" style="padding-right:10px;" />
 <img align="left" alt="Styled Components" width="35px" src="https://www.styled-components.com/atom.png" style="padding-right:10px;" />
 <img align="left" alt="Chat GPT" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png" style="padding-right:10px;" />
+<img align="left" alt="Chat GPT" width="35px" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" style="padding-right:10px;" />
+<img align="left" alt="Chat GPT" width="35px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" style="padding-right:10px;" />
+<img align="left" alt="Chat GPT" width="35px" src="https://static-00.iconduck.com/assets.00/npm-icon-2048x2048-8sw7kisf.png" style="padding-right:10px;" />
+<img align="left" alt="Chat GPT" width="35px" src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-5-1175140.png" style="padding-right:10px;" />
+<img align="left" alt="Chat GPT" width="35px" src="https://www.svgrepo.com/download/354202/postman-icon.svg" style="padding-right:10px;" />
 
 
 <br />
