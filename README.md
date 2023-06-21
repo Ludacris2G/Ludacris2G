@@ -1,4 +1,4 @@
-# 🌏 Hello World 🌍, I'm [Lee](https://ludacris2g.github.io/) ! 👋🗿
+# 🌏 Hello World 🌍 I'm [Lee](https://ludacris2g.github.io/) ! 👋🗿
 
 ## I'm a Developer, Polyglot and World Traveler !!
 
