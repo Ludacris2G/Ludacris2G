@@ -5,7 +5,7 @@
 - 🔭 Programming is my passion and I'm always trying to improve my skillset
 - 🥅 My goal is to use my app development skills to help make the world a better, more connected, and more accessible place for everyone
 - 🌱 I'm currently learning node.js
-- ⚡ Fun fact: I can speak 6 languages
+- ⚡ I can speak 6 languages
 - 🎩 Electro swing is my favourite music genre
 - 🌎 My #1 travel destination is Tokyo
 - 👹 I don't always test my code, but when I do, I do it in production
