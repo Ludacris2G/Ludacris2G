@@ -8,6 +8,7 @@
 - ⚡ I can speak 6 languages
 - 🎩 Electro swing is my favourite music genre
 - 🌎 My #1 travel destination is Tokyo
+- 🥊 Calisthenics enthusiast 
 - 👹 I don't always test my code, but when I do, I do it in production
 - 🐢 Average LeetCode enjoyer
 
