@@ -1,6 +1,6 @@
 # 🌏 Hello World 🌍 I'm <a href="https://ludacris2g.github.io/" target="_blank">Lee</a> ! 👋🗿
 
-## I'm a Developer, Polyglot and World Traveler !!
+## I'm a Developer, Polyglot and World Traveler !! Check out my portfolio <a href="https://ludacris2g.github.io/" target="_blank">here</a>
 
 - 🔭 Programming is my passion and I'm always trying to improve my skillset
 - 🥅 My goal is to use my app development skills to help make the world a better, more connected, and more accessible place for everyone
