@@ -6,7 +6,7 @@
 
 - 🔭 Programming is my passion and I'm always trying to improve my skillset
 - 🥅 My goal is to use my app development skills to help make the world a better, more connected, and more accessible place for everyone
-- 🌱 Currently building my blog website
+- 🌱 Currently building a photography portfolio
 - ⚡ I can speak 6 languages
 - 🎩 Electro swing is my favourite music genre
 - 🌎 My #1 travel destination is Tokyo
