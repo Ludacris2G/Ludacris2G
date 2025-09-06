@@ -1,18 +1,10 @@
 # 🌏 Hello World 🌍 I'm <a href="https://ludacris2g.github.io/" target="_blank">Lee</a> ! 👋🗿
 
-## Developer, Polyglot, Photograph and World Traveler !!
+## Developer, Polyglot, Photographer and World Traveler !!
 
 ### <a href="https://ludacris2g.github.io/" target="_blank">click here to check out my portfolio</a>
 
-- 🔭 Programming is my passion and I'm always trying to improve my skillset
-- 🥅 My goal is to use my app development skills to help make the world a better, more connected, and more accessible place for everyone
-- 🌱 Currently building a photography portfolio
-- ⚡ I can speak 6 languages
-- 🎩 Electro swing is my favourite music genre
-- 🌎 My #1 travel destination is Tokyo
-- 🥊 Calisthenics enthusiast 
-- 👹 I don't always test my code, but when I do, I do it in production
-- 🐢 Average LeetCode enjoyer
+I don't know everything, but I can learn anything
 
 <p align="center">
   <img src="https://i.imgur.com/JpRWXlj.gif" alt="pixel art gif" style="width: 100%;">
@@ -36,7 +28,7 @@
 <img align="left" alt="Chat GPT" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png" style="padding-right:10px; margin-top: 10px" />
 <img align="left" alt="Bootstrap" width="35px" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" style="padding-right:10px; margin-top: 10px" />
 <img align="left" alt="TypeScript" width="35px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" style="padding-right:10px; margin-top: 10px" />
-<img align="left" alt="NPM" width="35px" src="https://static-00.iconduck.com/assets.00/npm-icon-2048x2048-8sw7kisf.png" style="padding-right:10px; margin-top: 10px" />
+<img align="left" alt="NPM" width="35px" src="https://icon.icepanel.io/Technology/svg/NPM.svg" style="padding-right:10px; margin-top: 10px" />
 <img align="left" alt="MongoDB" width="35px" src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-5-1175140.png" style="padding-right:10px; margin-top: 10px" />
 <img align="left" alt="Postman" width="35px" src="https://www.svgrepo.com/download/354202/postman-icon.svg" style="padding-right:10px; margin-top: 10px" />
 
